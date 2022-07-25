@@ -26,7 +26,7 @@ Atualmente atuo com o desenvolvimento de soluções com Inteligência Artificial
  
 
 ## 📲 Contato
-[![Linkedin](https://img.shields.io/badge/%20-LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-toyoda-771102160) [![Gmail](https://img.shields.io/badge/%20-Gmail-grey?style=flat&logo=gmail)](lucastoyoda00@gmail.com) [![Discord](https://img.shields.io/badge/%20-Discord-grey?style=flat&logo=discord)](https://discord.com/users/376237868437209101)
+[![Linkedin](https://img.shields.io/badge/%20-LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-toyoda-771102160) [![Gmail](https://img.shields.io/badge/%20-Gmail-grey?style=flat&logo=gmail)](mailto:lucastoyoda00@gmail.com) [![Discord](https://img.shields.io/badge/%20-Discord-grey?style=flat&logo=discord)](https://discord.com/users/376237868437209101)
 
 ## 🎮 Games
 [![Playstation](https://img.shields.io/badge/%20-Playstation-grey?style=flat&logo=playstation)](https://psnprofiles.com/Tsuyoda) [![Steam](https://img.shields.io/badge/%20-Steam-grey?style=flat&logo=steam)](https://steamcommunity.com/profiles/76561198425251588/) 
