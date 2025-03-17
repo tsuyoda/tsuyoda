@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Lucas Toyoda, sou formado em Análise e Desenvolvimento de Sistemas pela [FATEC SO](http://www.fatecsorocaba.edu.br/) e trabalho com **Desenvolvimento de Software** na [ETEG](https://www.eteg.com.br/).
+Me chamo Lucas Toyoda, sou formado em Análise e Desenvolvimento de Sistemas pela [FATEC SO](http://www.fatecsorocaba.edu.br/) e trabalho com **Desenvolvimento de Software** na [Eduzz](https://www.eduzz.com/).
 
 Atualmente trabalho como **FullStack Developer**, atuando com arquitetura de sistemas, criação/manutenção de API RESTs, Front-ends e integrações de sistemas, além de atuar em soluções com Inteligência Artificial, incluindo Chatbots e criação de modelos NLP de classificação.
 
